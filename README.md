@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Haoyuan Chen. Nice meeting you. 👋
 
 <!--
 **ChenHY1217/ChenHY1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
